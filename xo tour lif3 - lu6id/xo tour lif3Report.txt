@@ -1,0 +1,67 @@
+Report created: 
+	9/29/2022	4:55:04 PM
+
+Project name: xo tour lif3.aep
+
+Source files collected to: 
+	C:\Users\Urbanx\Documents\Adobe\After Effects CC 2017\User Projects\xo lif3\xo tour lif3 folder
+
+Source files collected: All
+
+Collected comps:  
+	Xo Tour Lif3
+	tests
+	1.mp4 Comp 1
+	1.mp4 Comp 2
+	1.mp4 Comp 3
+	1.mp4 Comp 4
+	1.mp4 Comp 5
+	1.mp4 Comp 6
+	1.mp4 Comp 7
+	1.mp4 Comp 8
+	1.mp4 Comp 9
+	Capture.PNG Comp 1
+	1.mp4 Comp 10
+	1.mp4 Comp 11
+	1.mp4 Comp 12
+	1.mp4 Comp 13
+	1.mp4 Comp 14
+	maxresdefault.png Comp 1
+	Final
+	Pre-comp 1
+	LU6ID. 2 Comp 1
+	1.mp4 Comp 15
+	1.mp4 Comp 16
+	1.mp4 Comp 17
+	1.mp4 Comp 18
+	Pre-comp 2
+	
+Number of collected files:  14
+
+Size of collected files:  132 MB
+
+Collected source files: 
+	C:\Users\Urbanx\Documents\AePacks-Zweng\Aug 13, 2022 [EDITING PACK PRESET PACK FREE]\!Zweng Editing Pack-20220912T140442Z-001\!Zweng Editing Pack\Overlays\Overlays Made by Zweng\Purple Particles up 2.mp4
+	C:\Users\Urbanx\Documents\AePacks-Zweng\Aug 13, 2022 [EDITING PACK PRESET PACK FREE]\!Zweng Editing Pack-20220912T140442Z-001\!Zweng Editing Pack\Overlays\Overlays Made by Zweng\Purple Particles up.mp4
+	C:\Users\Urbanx\Documents\AePacks-Zweng\Aug 13, 2022 [EDITING PACK PRESET PACK FREE]\!Zweng Editing Pack-20220912T140442Z-001\!Zweng Editing Pack\Overlays\Overlays Made by Zweng\Yellow Particles up.mp4
+	C:\Users\Urbanx\Documents\AePacks-Zweng\HIGH QUALITY OVERLAYS-20220928T132529Z-001\HIGH QUALITY OVERLAYS\Composition 1_1.mp4
+	C:\Users\Urbanx\Documents\AePacks-Zweng\HIGH QUALITY OVERLAYS-20220928T132529Z-001\HIGH QUALITY OVERLAYS\New Project 116 [E67F142].png
+	C:\Users\Urbanx\Documents\AePacks-Zweng\HIGH QUALITY OVERLAYS-20220928T132529Z-001\HIGH QUALITY OVERLAYS\New Project 25.mp4
+	C:\Users\Urbanx\Documents\AePacks-Zweng\HIGH QUALITY OVERLAYS-20220928T132529Z-001\HIGH QUALITY OVERLAYS\Script Arrows.mp4
+	C:\Users\Urbanx\Music\Lu6id TTH.wav
+	C:\Users\Urbanx\Pictures\maxresdefault.png
+	C:\Users\Urbanx\Pictures\ss\Capture.PNG
+	C:\Users\Urbanx\Pictures\𝑨𝒏𝒊𝒎𝒆 𝑰𝒄𝒐𝒏𝒔 - Manga Profile Pics (males).jpg
+	C:\Users\Urbanx\Videos\Clips\1.mp4
+	C:\Users\Urbanx\Videos\Rms\Naruto_-_XO_Tour_Life_EditAMV_Ed_(getmp3.pro).mp4
+	C:\Users\Urbanx\Videos\video_2022-09-29_16-39-52.mp4
+	
+Rendering plug-ins:
+	Classic 3D
+	
+Layer:  Text Layer
+	External dependencies:  
+		Font family: “Kozuka Gothic Pr6N”, Font style: “R”
+
+Comments:  
+Made by Lu6id on YouTube.
